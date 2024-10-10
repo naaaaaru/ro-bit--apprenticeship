@@ -1,0 +1,12 @@
+﻿'ConsoleApplication5.exe'(Win32): 'C:\Users\naru4\OneDrive\바탕 화면\ConsoleApplication5\x64\Debug\ConsoleApplication5.exe'을(를) 로드했습니다. 기호가 로드되었습니다.
+'ConsoleApplication5.exe'(Win32): 'C:\Windows\System32\ntdll.dll'을(를) 로드했습니다. 
+'ConsoleApplication5.exe'(Win32): 'C:\Windows\System32\kernel32.dll'을(를) 로드했습니다. 
+'ConsoleApplication5.exe'(Win32): 'C:\Windows\System32\KernelBase.dll'을(를) 로드했습니다. 
+'ConsoleApplication5.exe'(Win32): 'C:\Windows\System32\vcruntime140d.dll'을(를) 로드했습니다. 
+'ConsoleApplication5.exe'(Win32): 'C:\Windows\System32\ucrtbased.dll'을(를) 로드했습니다. 
+16364 스레드가 종료되었습니다(코드: 0 (0x0)).
+'ConsoleApplication5.exe'(Win32): 'C:\Windows\System32\kernel.appcore.dll'을(를) 로드했습니다. 
+'ConsoleApplication5.exe'(Win32): 'C:\Windows\System32\msvcrt.dll'을(를) 로드했습니다. 
+2324 스레드가 종료되었습니다(코드: 0 (0x0)).
+7900 스레드가 종료되었습니다(코드: 0 (0x0)).
+'[28392] ConsoleApplication5.exe' 프로그램이 종료되었습니다(코드: 0 (0x0)).
